@@ -11,7 +11,7 @@ This project is a simple and user-friendly GUI-based calculator developed in Pyt
 ## Installation
 1. Ensure you have Python 3 installed. If not, download it from here.
 2. Clone this repository to your local machine.
-3. Navigate to the project directory and run `python calculator.py`.
+3. Navigate to the project directory and run `gui calc.py`.
 
 ## Usage
 1. Run the program.
