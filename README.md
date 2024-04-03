@@ -9,7 +9,7 @@ This project is a simple and user-friendly GUI-based calculator developed in Pyt
 - Error handling for invalid inputs.
 
 ## Installation
-1. Ensure you have Python 3 installed. If not, download it from here.
+1. Ensure you have Python 3 installed. If not, download it from here https://www.python.org/downloads/
 2. Clone this repository to your local machine.
 3. Navigate to the project directory and run `gui calc.py`.
 
